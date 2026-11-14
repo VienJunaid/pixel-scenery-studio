@@ -1,0 +1,14 @@
+{
+  "label": "Lantern Lake",
+  "subtitle": "A boat and a lantern under the moon",
+  "created": "2026-11-14",
+  "loopSeconds": 60,
+
+  "pack": {
+    "label": "Lantern Lake",
+    "subtitle": "A boat and a lantern under the moon",
+    "order": 1,
+    "glow": "ffcf6b",
+    "bar": { "background": "0c1230", "alpha": 0.8, "text": "f6f0d4", "active": "ffcf6b", "border": ["34437a", "ffcf6b"] }
+  }
+}

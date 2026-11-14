@@ -1,0 +1,16 @@
+{
+  "name": "Pixel Scenery Studio",
+  "style": "pixel-art",
+  "styleGuide": "STYLE.md",
+
+  "resolution": [320, 180],
+  "output": [1920, 1080],
+  "fps": 24,
+  "loopSeconds": 60,
+
+  "pack": {
+    "id": "pixel-scenery",
+    "name": "Pixel Scenery",
+    "description": "Pixel-art live wallpapers made with pixel-scenery-studio."
+  }
+}

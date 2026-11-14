@@ -1,0 +1,16 @@
+{
+  "name": "pixel-scenery-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pixel-art live wallpapers, made with Claude. Renders seamless looping MP4s for omarchy-live-wallpaper.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "new": "node engine/new-scene.mjs",
+    "preview": "node engine/render.mjs --preview",
+    "check": "node engine/render.mjs --check-loop",
+    "render": "node engine/render.mjs",
+    "export": "node engine/export.mjs",
+    "scenes": "ls scenes"
+  }
+}

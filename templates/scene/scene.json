@@ -1,0 +1,10 @@
+{
+  "label": "{{label}}",
+  "subtitle": "{{subtitle}}",
+  "created": "{{date}}",
+
+  "pack": {
+    "label": "{{label}}",
+    "subtitle": "{{subtitle}}"
+  }
+}

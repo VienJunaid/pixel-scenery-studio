@@ -93,3 +93,9 @@ The first scenes (Al-Aqsa, the Kaaba, Madinah, Hagia Sophia, the Al-Farooq night
 Kazakh meadow) were made inside [rpi-dashboard](https://github.com/VienJunaid/rpi-dashboard), a
 Raspberry Pi home screen, and recorded from it as video. This studio takes the same pixel-art
 approach and makes it a standalone tool for wallpapers.
+
+## License
+
+MIT. See [LICENSE](LICENSE). This covers the code and the example scene. Reference images you add
+for your own scenes stay yours and are never committed (`inbox/` is gitignored; keep personal photos
+out of scenes you share).
